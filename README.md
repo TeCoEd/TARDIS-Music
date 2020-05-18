@@ -1,4 +1,7 @@
 # TARDIS Music
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O31OGEX)
+
  Simple code to flash blue LED on Dr Who's TARDIS
  
 ![](images/thumb.png)
